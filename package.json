@@ -1,0 +1,22 @@
+{
+  "name": "pusbot",
+  "version": "1.0.0",
+  "description": "Drags pusball instagram posts and puts them in a discord channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quizzlesticks/PusBot.git"
+  },
+  "author": "Quizzlesticks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quizzlesticks/PusBot/issues"
+  },
+  "homepage": "https://github.com/quizzlesticks/PusBot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
